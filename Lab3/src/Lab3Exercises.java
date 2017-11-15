@@ -7,5 +7,6 @@ public class Lab3Exercises {
 		Yeniel.setLocation(850, 400);
 		Yeniel.setSize(200, 200);
 		Yeniel.setVisible(true);
+		
 	}
 }
