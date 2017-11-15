@@ -6,6 +6,8 @@ public class Lab3Exercises {
 		Yeniel.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 		Yeniel.setLocation(850, 400);
 		Yeniel.setSize(200, 200);
+		MyPanelClass myPanel = new MyPanelClass();
+        Yeniel.getContentPane().add(myPanel);
 		Yeniel.setVisible(true);
 		
 	}
